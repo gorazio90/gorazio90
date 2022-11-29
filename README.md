@@ -13,3 +13,6 @@
 ![CHARLES](https://img.shields.io/badge/-CHARLESPROXY-2F4F4F?style=for-the-badge&logo=CHARLESPROXY&logoColor=4682B4)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-2F4F4F?style=for-the-badge&logo=FIGMA&logoColor=C71585)
 ![ANDROIDSTUDIO](https://img.shields.io/badge/-ANDROIDSTUDIO-2F4F4F?style=for-the-badge&logo=ANDROIDSTUDIO&logoColor=00FA9A)
+
+### Follow me
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-2F4F4F?style=for-the-badge&logo=TELEGRAM&logoColor=B0E0E6)](https://t.me/orgazio)
